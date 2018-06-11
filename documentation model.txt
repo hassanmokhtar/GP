@@ -1,0 +1,43 @@
+this model are classify and similarity any word with the dataset
+
+first we have three files and one to execute and combine the three file to run the model
+
+a- we took about of the first procces which is the prepare the dataset:
+
+
+1- first load and read the files after read each data from files we need to clean the data then we have two way if we need get sentence only then first split and take each line and remove the punctuation  and return it otherwise then we used the word then also split by space and remove the punctuation and only get the words and number any other things it's will removed.
+
+after load this process then it's return the data of dictionary which is the key is the name of the file and value it's a data.
+
+
+2- after that need to run another process which is calculate the occurrence for each word or sentence and should be unique the sentence or word in other files not in file.
+
+3- after calculate the occurrence , we need to combine the all file as a one list and need to store each length of each file to add the labels into the model.
+
+4- finally this process are return only three things first dictionary of the occurrence of each word unique in file and list of words or sentence and finally length of each file which is dictionary
+
+
+b- after prepare the dataset we need to proccess the word or sentence to convert it to sequence of numbers:
+
+1- first have some things need to load it which is first create object from tokenizer that is built in keras .
+
+2- and then need to pass to dataset into fit to text that is prepare the data which calculate word index and some things other.
+
+3- after that need to convert the text to sequence which is function built in tokenizer also.
+
+4- after load the convertion then the vector of not only the same vectors into matrix then call function that add padding the sequence to take all vector as a same size.
+
+5- after this operation need to add the label then get the length of each doc and add label.
+
+6- finally this proccess are return only two things if you have labels then return the data as a sequence and labels otherwise then it's need only the data then return it only
+
+
+c- finally proccess which is build the cnn model and load it to train the data and get the accuracy from the model:
+
+1- first build model cnn which have some layers important ...... , after the build the model then pass the train and labels data to train it and after train the data need to predict then get the test data to predict with it.
+
+finally this model are used for classify and similar the word to match the word into the sections.
+
+
+d - it a file that execute and combine the all process to run it.
+
