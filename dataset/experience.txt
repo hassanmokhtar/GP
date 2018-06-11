@@ -1,0 +1,305 @@
+Work Experience
+Hardware Design Engineer, Picosem Technologies pvt ltd, Bangalore.
+
+Market Research Analyst FREELANCER , , Bangalore.
+
+Intern, Picosem Technologies pvt ltd, Bangalore.
+
+Corporate Trainer (PART TIME) , Globals Research Innovation And
+Development , Bangalore.
+On Contract
+Technical Support Representative, E4E Business Solutions PVT LTD,
+Bangalore.
+From 26/1/2017 till 5/10/2017 Sheraton Hospital :
+JOB DESCRIPTION
+In this period I worked as An Accountant
+From 1/7/2016 till 12/8/2016 farag’s CO. :
+JOB DESCRIPTION:
+In this period I worked as Data entry
+FROM 8/5/2014 till 8/8/2015 GO BUS CO. :
+JOB DESCRIPTION:
+In this period I worked as a shift leader in the customer service
+Department and Quality Control.
+Supervising the day time shift.
+Training the new staffers.
+Previewing the delivery.
+Following complains.
+Making daily reports and monthly reports for my direct director.
+From 10/2/2014 till 30/4/2014 Egy data co. :
+JOB DESCRIPTION:
+WORKING AS A TELE SALE
+Work Experience
+August 2013- Hardware Design Engineer, Picosem Technologies pvt ltd, Bangalore.
+Present
+Oct 2014- Market Research Analyst FREELANCER , , Bangalore.
+March 2015
+March 2013- Intern, Picosem Technologies pvt ltd, Bangalore.
+August 2013
+June 2013- Corporate Trainer (PART TIME) , Globals Research Innovation And
+Aug 2013 Development , Bangalore.
+On Contract
+Oct 2010- Technical Support Representative, E4E Business Solutions PVT LTD,
+Jan 2011 Bangalore.
+Project Experience
+Design Of A Smart lock which can be operated from a Smart Phone via Bluetooth.Designed
+Smart Lock the whole system, and performed the necessary functionality tests and monitor the
+design of RF Board
+Design Of
+Spartan 3E
+DSP FPGA
+Based Board
+It is a general purpose board werein the client can access the banks of the FPGA
+to enact as an Emulator. This board is provided with the basic interface like the
+clock synthesizers, PROM and Input Output Pins. The clock frequency can be
+programmed and the program can be stored in the PROM
+Diffused laser Laser therapy treatment unit for hair growth was designed. Diffused Lasers were
+based hair utilized, and a Driver circuit was designed. A charger circuit was built inside to
+re-growth charge the battery.
+therapy unit
+High precision The project is to identify the variation in X, Y and Z axis. The obtained data was
+Digital transferred to Arduino Due board through SPI Interface. Nine Gyro scopes were
+Gyroscope used to increase precision, and were individually controlled
+I am a Junior Android Developer interested Algorithms Problem solving.
+Experience with Object-oriented programming concepts.
+Experience with Android SDK and Android Studio.
+Experience working with remote data via REST and JSON.
+Experience in local storage and database.
+UI Development and customization, custom components development.
+I have Good Knowledge Location and Map .
+I have Good knowledge in Firebase Cloud Messaging ( FCM )
+Education
+Bachelor's Degree in Information system.
+Faculty of Information system, ElShorouk Academy, ElShorouk, Cairo, Egypt, [2012–2016].
+Graduation Project
+"GramoShare " (Social Media Network) , I was the team Leader of the
+Project, using PHP web Service & Android Developer & Ul xml.
+Grade: Excellent.
+Graduation Grade: Good.
+Work Experience
+International Safran Morpho , Cairo , Egypt [February 2017– Right Now ].
+Android Developer research and design team @ Safran
+MDM Morph Mobile Device Management Suite:
+Have participated in designing & developing MDM.
+Services integrations between the new and old legacy systems.
+Have participated in designing & developing MTMC.
+Have participated in designing & developing SecureLogTransmission .
+BagSoft Company , Cairo , Egypt [November 2016 – February 2017].
+Android Developer .
+IBM Company , Cairo , Egypt [January 2016 – March 2016 ].
+Training Web Development for Mobiles
+Restart Technology Company , Cairo , Egypt [ July 2014 – October 2014].
+Training Android Development
+Technical Experience
+Database
+My SQL
+SQLite
+Realm
+Programming
+Java standard edition
+Java Enterprise Edition
+PHP
+Operating System
+LINUX
+Windows
+Scripting Language
+JSON
+XML
+JavaScript
+4 Months experience Tatweer For Information
+Technology working on multiple projects for
+marseilia and Arkan on my own
+Since 11-6-2017
+ASP.NET MVC developer at Double
+Click Enterprise company using
+technologies: ASP.NET MVC, Entity
+framework, JQuery, MS SQL Server
+Databases.
+Till now
+Professional Experience
+WORK EXPERIENCE
+July 2016 – Customer service
+august 2016
+Raya contact center
+Experience:
+TheWayOut – internet and network solutions
+Scope of Work -Job Title: NOC Engineer
+wideband – internet service provider, Jeddah, KSA
+Scope of work: -Job Title: Technical Engineer
+TE_DATA, internet service provider, Egypt, Cairo
+Scope of work: -Job Title: Technical Support
+Monitoring internet lines of customers.
+Monitoring network solution of customers.
+Basic troubleshooting for down leased and ADSL lines
+Monitoring data center
+Following and responding to customer requests by e-mails
+delivering internet service through internet towers.
+installing and configuring receiving microwave devices from ubnt company for.
+installing and configuring cisco router (series 1811) for delivering dedicated line internet service.
+Adjusting ADSL router settings and activating internet service.
+Troubleshooting and solving customer technical problems in Network Connection.
+Escalating to 2 nd level and 3 rd level support.
+Updating and closing solved tickets.
+Previous Experience :
+Worked in 3S Apps from 1/9/2015 to 1/1/2016 as
+android developer
+Graphic design (logos – personal IDs – banners – UI/UX).
+Building android applications (designing using xml – coding using Java).
+Building desktop applications (Java – C#).
+Capabilities
+Creating functional databases (SQL server – SQLite).
+Already built a simple inventory management system and some mobile apps.
+Experience
+Business Development Executive at Interact company
+Android developer at Indeves startup
+Freelancer at android development
+Intern at Giza systems
+Volunteering Experience
+Chairman at IEEE Fayoum Student Branch (2014-2015)
+Volunteer at Aiesec Fayoum 2014
+Volunteer at Tedx Fayoum 2014
+Work experience
+Nuvolari
+Computer Programing Training
+Learning new coding language (ruby)
+Communication, team work, problem solving.
+Became adaptable to change and have ability to learn new
+skills.
+Association of management and information
+technology (AMIT)
+Participant
+Studying master android diploma.
+Creating android application code (where is my pizza).
+Achieve a certain tasks in the scheduled time with excellence
+Team working.
+Designed, developed, and tested multiple features, enhancing core cloud
+application, all of them currently in production
+Designed and wrote access permissions throughout the central monitoring
+application, such as publicly exposed internal APIs, authentications, and
+creating and assigning data reports , making it secure and reliable for all level of
+users
+Developed various automated tests in Mocha framework with maximum code
+coverage
+Implementation in HTML/CSS/AngularJS (frontend) and Node.js (backend)
+using node and gulp servers
+EXPERIENCE SOFTWARE ENGINEERING INTERN
+Increased Microsoft configuration manager asset database accuracy by
+resolving a discrepancy involving over half a million dollars worth of hardware
+Developed several efficient standard operation procedures (SOPs) including
+virus removals and employee terminations
+Conducted training seminars for business affiliates (CDW) to work with
+company’s hardware databases upon both annual life cycles and breakage
+replacements
+Ensured successful migration from IE 8 to IE 10 and Outlook 2010 to Cloud as
+a member of the Hyper Care team
+Provided hardware and software support to company employees working with
+Windows and VMs
+Formalized current and newly developed processes in the IT department using
+Microsoft Visio
+EXPERIENCE
+Contracted IT Services
+American Publication Company, Cairo
+Summer 2015 – Spring 2017
+Part-time job while studying.
+Handled all IT-related services, including: purchasing, installing, maintaining, and providing professional
+technical support for software, hardware, and networks
+EXPERIENCE
+Trainee on android mobile development apps at hamza company.
+EXPERIENCE:
+TechnoSinage Company .Net Developer at 4 leith bin saad st, Heliopolis
+Work Experiences
+Android Developer : Giza Host Company (September 2017 –December 2017 )
+Web Developer : Graduation project
+About tourist places in Egypt
+Using Asp.net and Microsoft SQL Server ( January 2017 – June 2017)
+Cloud Developer : IBM
+Certified in Cloud Application Developer
+Mastery Award (2016) ( January 2017 – June2017)
+Android Developer : Google Mobile Application Launchpad (MAL) ( Apr 2016 – Sep 2016)
+Software development experience and Android skills development
+Certified in Developing Android Apps
+Mobile Developer : IBM
+Certified in Cross platform
+Mobile Application Developement with Worklight Studio v6.2
+Experience
+1-140 directory (From 4/2013 To 10/2013)
+2-Al-Amin Company (From 11/2013 To 5/2014)
+3-Te-Data Technical Support (From 8/2014 To 9/2015)
+4- Al-Borg Labortary (Help Desk) (From 4/2016 Till Now)
+WORK
+EXPERIENCE
+Regional IT Analyst
+Acting as META region representative, (Middle East, Turkey and Africa), in the
+European IMPACT team
+Led and supervised the IT support team (4 staff) responsible for the whole campus.
+Achieved a user satisfaction rating of 4.9/5.0 (14% higher than average);
+consistently logged and monitored ticket status to ensure fast, quality resolution of
+every issue.
+Promoted to assume additional responsibilities as Technical Advisor providing
+expert guidance to Help Desk staff.
+Developed process within the team to improve communication and instilled a team
+mentality versus a support center island mentality reducing case turnover by 25%.
+On-site premium support for senior executive video-conferencing meetings – setup,
+test & support.
+Suppliers & Contracts Management, Follow up on the progress of running projects.
+Information Technology Institute (iTi)
+Apr 2009 — Mar 2014
+Business Process Outsourcing Data Trainer (EDU-Egypt program)
+Business Process Outsourcing Data Trainer for Universities students under the
+supervision of the Ministry of communication and Information Technology.
+Facilitated, Managed and delivered training for soft skills, communication process
+and computer courses.
+Vodafone
+Mar 2008 — Mar 2009
+Technical Support Trainer
+Hired, trained and developed highly effective Technical support team that
+consistently exceeded 97% customer satisfaction ratings
+Achieved 25% increase in first-call resolutions by establishing internal training for
+product certification program designed to improve technical competencies of
+technicians.
+Facilitated, Managed and delivered training for soft skills, customer service, and
+call center software.
+Training of handling customer complains.
+Vodafone
+Jun 2007 — Mar 2008
+Technical Support Representative
+Act as a first line of support to all VF Egypt users’ inquiries (technical / billing).
+Closed 95% of trouble tickets on the first call without escalation.
+Awarded “Star Employee” three times for delivering outstanding technical
+support and customer service
+Experience
+Mobiserve Egypt
+First International
+Jan 2009 - Present
+Data Analysis Specialist
+Manipulating, cleansing & processing data using Excel, Access and SQL.
+Responsible for loading, extracting and validation of client data.
+Developing data analytical databases from complex financial source data.
+Confirming project requirements by studying user requirements, conferring with others on
+project team.
+Data entry, data auditing, creating data reports & monitoring all data for accuracy.
+Designing, developing and implementing new functionality.
+Maintaining data dictionary by revising and entering definitions.
+Maintaining client confidence and protects operations by keeping information confidential.
+Contributing to team effort by accomplishing related results as needed.
+Determining changes in physical database by studying project requirements, identifying
+database characteristics, such as location, amount of space, and access method.
+Changing database system by coding database descriptions.
+Protecting database by developing access system, specifying user level of access.
+Maintaining user reference by writing and rewriting database descriptions.
+Mobiserve Egypt
+First International
+Jan 2006- Dec 2009
+Senior Data processing (sorting)
+Performing operational support duties of the Data Processing department.
+Assisting the Data Processing supervisor and manager to ensure that all Data Processing
+functions operate effectively and efficiently.
+Performing daily operations which support functions of core processing system(s).
+WORK EXPERIENCE
+# I successfully completed Graduation Project in asp.net with c
+I was working IT Training at Link development company in Maadi Branch
+for one year
+I was working in alyamama hotel in riyadh Administrator for one1 - 2
+yearI was working IT at Saudi Binladin Group at Project King Abdullah
+University of Science and Technology(KAUST)
+I was working IT Administrator at Saudi Binladin Group at ProjectKudai
+station in mecca

@@ -1,0 +1,365 @@
+COMPUTER SKILLS:
+Good user of the Office Applications (Word, Excel and PowerPoint).
+Good at surfing and browsing the Internet.
+Fast and accurate typing.
+PERSONAL SKILLS:
+Establishes goals, objectives and target deadlines for team.
+Encourages fair play with team rules.
+Reviews and monitors team progress towards goal.
+Technical skills
+Programming Verilog, Embedded C,C, Python
+Languages
+Tools and OS Orcad Capture, Xilinx, Keil, MATLAB, PROTEUS, CAM 350, Microsoft
+Windows, Server 2003,Ubuntu
+Cerifications Microsoft Certified Solution Associate
+Technical and Personal skills
+Programming Languages: Proficient in: C++, Python, SQL, Visual Basic, XML, HTML
+Also basic ability with: SAS, R.
+Industry Software Skills: Microsoft Excel, Microsoft Access, Microsoft Word.
+General Business Skills: Good presentation skills, management skills, Works well in a team.
+Other: Can write well organized and structured reports.
+Android skills:
+Debugging.
+Using Google-API e.g. Google-drive Google-maps
+Reading the software documentation.
+Wi-Fi-direct.
+Uses media-player API
+Trace the error in android-studio.
+Debugging using Emulator & physical device.
+Reading documentation of third-party API e.g. retrofits, Picasso
+Introduction to Embedded Systems.
+Real-time Operating system.
+Operating system fundamentals.
+Software engineering.
+C for embedded system.
+Introduction to Linux.
+Version control system.
+Device driver.
+Automotive Bus technology.
+Interfacing.
+Arm Processor.
+Embedded Linux
+Hardware labs.
+Embedded software testing.
+Embedded OS.
+Project : Interface the keypad ,LCD ,GSM-module using Tiva micro-controller (Texas-instruments)
+& I t programmed using C-language
+New technology SKILLS:
+Excellent ability to handle new programs and software.
+Reading what’s the new in network technology.
+Excellent ability to read the catalog of the products
+Microsoft
+Querying Microsoft SQL server 2012 (10774)
+Developing Microsoft SQL server 2012 (10776)
+Programming in C# (20483B)
+Developing Data Access (10265A)
+Introduction to web Development (10267A)
+Programming In HTML5 and java script and Css3(20480B)
+Development ASP.NET MVC4 web application (20486A)
+ASP.NET CORE MVC 6
+Developing Windows Azure And Web Service (20487A)
+Oracle
+11g SQL Fundementals
+11g PL/SQL
+10g Build Internet Application
+Bootstrap
+Jquery
+TECHNICAL SKILLS :
+Programming Language
+C#.net.
+C/C++.
+Basics of JavaScript.
+Web Technologies
+ASP.net.
+Basics of MVC 5
+Basics of Entity Framework
+HTML5.
+CSS3.
+DBMS
+MS-SQL Server.
+Oracle
+IDES
+MS-Visual Studio.
+MS-SQL Server.
+MATLAP
+Technical Skills:
+Programming Languages:
+C# Desktop Technologies:
+Windows Presentation
+Foundation (WPF)
+Web Design:
+HTML5,CSS3,Bootstrap
+JavaScript, JQuery .Net Technologies:
+ASP.Net MVC
+WCF,Web Api
+LINQ, Entity Framework.
+Database:
+SQL Server Database
+Computer Skills & Courses
+Microsoft Office Package (Word, Excel, Power Point, Access, Outlook).
+Adobe: Photoshop – Illustrator – Flash – Dreamweaver (at north area institute) - year 2014.
+Html - CSS (at north area institute) - year 2014.
+ICDL (at Alexandria University) - year 2015.
+SQL server (at Alexandria University) - year 2016.
+C# programming course (at New Horizons & Collage) - year 2016.
+Local Networks Security (at I Hack project) - year 2016 (No certificate) - year 2016.
+Java 1 programming language (at Arab Academy for Science & Technology) - year 2016.
+Java 2 programming language (at Arab Academy for Science & Technology) - year 2017.
+Android applications programming (at Arab Academy for Science & Technology) - year 2017.
+PHP programming language (online course at codeacademy.com) - in progress
+Android development skills
+Strong knowledge of Android SDK (NATIVE), and how to deal with different mobile screen sizes.
+Strong knowledge for Java programming language
+Strong knowledge of Android user interface design principles and patterns
+Perfect knowledge with OOP
+Strong knowledge of working with remote data via rest and json
+working with third-party libraries and APIs
+Familiarity with cloud message APIs and push notifications and internal notification
+Experience with offline storage, threading, offline database and performance tuning
+Upload and verify the application go Google play store
+Work on agiled mobile app development
+Development skills
+VSC ( Github )
+java SE
+C, C++
+Javascript
+MATLAB
+C#
+Shell Scripting
+Linux (ubuntu , Elememtry OS)
+Familiar with React Native
+Experienced and professional
+CCNA knowledgeable & Network
+Protocols
+Experienced with Cisco Packet
+Tracer
+Practiced on Networks Advanced
+labs
+Certified in Master Android
+Diploma at AMIT
+Familiar with different libraries
+and APIs (JSON, Google Maps,
+SQLite, Rest Web services,
+MYSQL,Bluetooth, Twitter)
+Using Arduino for various
+smarthome projects
+IOT , android , network , matlab ,Circuit Design , Version Control (Git)
+Computer Skills
+Programming Languages:
+C++ , C# , java .
+Web Programming:
+HTML, CSS , JavaScript , XML , Json.
+Database:
+MS SQL , SQL server.
+Mobile Programming :
+Android
+Tools:
+Microsoft Visual Studio , NetBeans , Eclipse , Dreamweaver , MatLab , Android Studio ,
+VMware Workstation, Veeam Backup Tool .
+Able to learn new techniques, other programming languages and new technologies.
+language skills
+C# Java C++
+JavaScript HTML CSS  VHDL
+Assembly  Matlab
+TOOLS AND FRAMEWORKS
+Node.js AngularJS 
+Angular Material Mocha
+PostgreSQL   MVC   Bootstrap
+Git  Unix
+Microsoft Visual Studio
+Eclipse vim
+SKILLS
+Programming: C#, C++, C, SQL, ODP.NET, OpenGL,
+MATLAB, Object-Oriented Programming, Git.
+Languages: English (Fluent/Academic IELTS Band 8.0)
+German (Elementary/A2) – Arabic (Fluent).
+Technical Skills
+Programming:
+c - c++ 
+object oriented - gava se
+Web skills:
+PHP – HTML
+Network
+Qualified in ( A+ , N+ , CCNA - MCSA )
+Database:
+oracle developing 11g (sql – pl/sql ) - my SQL
+Windows:
+Windows XP administration – ICDL certified
+Technical Skills
+Good OOP knowledge.
+Good knowledge about Android Development.
+Good with PHP as a back-end programming language.
+Good with MySQL Database.
+Good with HTML/CSS.
+Fair in developing Universal Applications using C#.
+Fair with ASP.net.
+Skills
+Technical Skills
+Good skilled with “ Agile ” Methodology , “ Scrum ” framework and have a good
+knowledge with GitHub community.Ability to communicate with people at all levels .
+object Oriented Programming
+Android
+Mobile Development Life Cycle
+Working with APIs(Json)
+Third party libraries(Retrofit, Butterknife, Glide, Picaso)
+Firebase
+XML
+Git
+Data Structure
+MySQL
+SQLite Programming Language:
+Java
+c/c++
+IDEs:
+NetBeans
+Android Studio
+Computer
+Applications: Microsoft Office Suite , Adobe Photoshop
+Operating Systems: Linux, Windows, Mac
+SKILLS:
+Language -Fluent in Arabic and V.Good in English
+Computer knowledge Windows Azue, Sql Azue, Asp.net,Sql server 2012, Asp.net, Asp mvc,
+Entity Framework, LINQ, Ado.net, ORM, C#, Html5, CSS3, JavaScript,
+JQuery , TFS ,Scrum, Adobe Muse, telerik.
+Summary of Technical Skills:
+Excellent logical, diagnostic, computational, and problem-solving skills.
+Developing app deal with different web services
+Familiarity with database design and development.
+Building apps with Multimedia, Connectivity, APIs, Google Maps - MaterialDesign - Design patterns - Agile Software Development - Retrofit and
+Volley - GCM - Firebase - Eventbus - Butter knife
+Building full reservation system
+Have knowledge with GitHub and bitbucket
+Build three apps:
+FinicalNoitofer (Android Student Club)
+June 2014
+This Android application notifies the user with status bar notification for
+upcoming Vehicle insurance renewals, life insurance premium payments and
+fixed deposits maturity.
+Movie App (Udacity)
+Nov 2015
+Is a fully functional and colorful android app which I made from scratch. With
+the app, you can discover the most popular movies, watch trailers, read reviews
+and save movies locally (offline mode)
+Dental Manager (Freelancing)
+Oct 2017
+Android app for dental dentist helps him to manage the clinic, such as adding
+patients, see all the details, adding session with description and cost and adding
+and viewing patient gallery .
+*I build webservice for this app using Slim micro framework*
+Skills Summary
+Junior software engineer with experience and good knowledge in the field of software
+development including system analysis and design, Web development , Android development ,
+C# , asp.net , Microsoft SQL Server , Ajax , HTML , CSS , JavaScript , Object Oriented
+Programming , Algorithms , Data Structures , C++ , Java ,Firebase , MySQL with an
+accumulative experience through several projects, and courses. Skilled at learning new concepts
+and techniques, working well under pressure and communicating ideas clearly and effectively.
+Computer Skills
+Programming Language:
+C++
+Java
+Html & Css
+Java Script
+Rational Database Management:
+QL
+SQLITE
+ORACLE
+Mobile Development
+Android development
+Network
+N+
+CCNA
+Skills:
+OOP
+Algorithms
+Regex
+Json
+Technical Skills
+Basic of FortiGate security .
+Symantec Backup exec .
+Good at SAN and NAS storage .
+Hardware and Software Maintenance .
+Configure Printer , Scanner and barcode .
+Troubleshoot Outlook and other mails site .
+Very good at MS office Package .
+V.Good computer and internet skills .
+Research and Presentation skills
+Expert with all M.S Operating System .
+Skills Summary
+Junior software engineer with experience and good knowledge in the field of
+software development including system analysis and design and database design
+with an accumulative experience through several projects, and courses. Gained
+knowledge in web and portals development. Skilled at learning new concepts and
+techniques, working well under pressure and communicating ideas clearly and
+effectively.
+Technical skills
+Programming language
+Java
+C/C++
+PHP
+Python
+Web technologies
+HTML/CSS
+Java script
+XML
+Database
+SQL
+MYSQL
+Technical Skills
+C#
+ASP.net (MVC)
+Xamarin.Forms
+Java 2SE
+SQL
+MS Office Tools
+VBA
+Computer Skills
+Knowledgeable about the latest programs being used in application creation.
+Comfortable working on various operating systems and platforms.
+Quite adept at using a computer and know all the important programs and software that are
+used in an office like MS Office, etc.
+Designed various application for clients and delivered them all in time as I am comfortable
+working with most software.
+Also trained all the junior programmers in using company specific software and other software
+used in application creation.
+Good at market research as well regarding application and new technology being used in
+application creation.
+Good at trouble shooting and can deliver work in all the stipulated deadlines.
+Good at working in a team environment and can comfortably work with other colleagues.
+Handled some extra responsibilities in my previous work.
+Good organizational skills and have a good memory.
+Good at writing letters and other forms of communications that are used in an office
+Environment.
+Polite and soft-spoken and can make all the guests in the office feel comfortable
+Good at documentation and filing and can ensure that all files are kept safe and confidential.
+Previously assisted other employees in procedures like accounting, billing, etc. Therefore,
+adept at using other programs as well
+Can make reports for the management as and when they require it.
+QUALIFICATIONS
+Computer Skills:
+Windows server 2012
+Windows server 2008
+Windows Server 2003
+Windows Server 2000
+Windows XP
+Windows Vista
+Windows Seven
+Internet Security and Acceleration Server (ISA)
+Sql Server 2005 Edition
+C# language
+Javascript language
+ASP.net
+Technical Skills
+Object oriented programming
+Java SE
+Data structure
+C
+GIT
+C#
+UMl Diagrams.
+Highly Skilled in using MS Office (Word, Power Point & Excel).
+Very Good in:
+Virtualization.
+VMware.
+Hyper-V.
+Microsoft Office .
+CCTV System and finger print
