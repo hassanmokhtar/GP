@@ -1,5 +1,6 @@
 from collections import Counter
 from string import punctuation
+from nltk.corpus import stopwords
 import random
 
 class process_data:
@@ -62,12 +63,16 @@ class process_data:
         """
 
         data = data.lower().split()
+        
+        stop_words = set(stopwords.words('english'))
 
         table = str.maketrans( "","" , punctuation )
 
         data = [ w.translate( table ) for w in data ]
 
         data = [ word for word in data if word.isalnum() ]
+
+        data = [ word for word in data if word not in stop_words ]
 
         return data
 
@@ -234,11 +239,11 @@ class process_data:
 
             @param: list of data docs
 
-            @return: list of combine data  ,  dictionary of length each docs.
+            @return: list of combine data  ,  dictionary of value list have length each docs and name.
 
         """
 
-        len_doc = {}
+        detail_doc = {}
         
         docs_list = []
 
@@ -246,12 +251,12 @@ class process_data:
 
             docs_list += docs[i]
             
-            len_doc[ i ] = len( docs[i] )    
+            detail_doc[ i ] = [ len( docs[i] ) , self.__filenames[i].split(".")[0] ]   
 
-        return docs_list , len_doc
+        return docs_list , detail_doc
 
 
-    def run_process( self  , sentence=True ):
+    def run_process( self  , sentence=True , is_train=True):
 
         """
             it's run the class to load proccess in the data after return it after process.
@@ -264,22 +269,21 @@ class process_data:
 
         docs = [ docs[k] for k in docs ] 
 
-        cal_doc_occ = []
+        #check if is train or not
+        if is_train:
 
-        for doc in docs:
+            cal_doc_occ = []
 
-            cal_doc_occ.append( self.calculate_occurence(doc) )
+            for doc in docs:
 
-        cal_doc_occ = self.clean_repeat_word( cal_doc_occ )
-        
-        docs , len_data = self.combine_data( docs )
+                cal_doc_occ.append( self.calculate_occurence(doc) )
 
-        return cal_doc_occ , docs , len_data
+            cal_doc_occ = self.clean_repeat_word( cal_doc_occ )
+            
+            docs , detail_doc = self.combine_data( docs )
+
+            return cal_doc_occ , docs , detail_doc
 
 
-if __name__ == "__main__":
+        return docs[0]    
 
-    pre = process_data("./dataset/" ,['skills.txt' , 'experience.txt' , 'education.txt'])
-    occurrence_data , data = pre.run_process(sentence=True) # get words only if read sentence change to true
-
-    print(data)

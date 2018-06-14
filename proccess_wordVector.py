@@ -55,7 +55,7 @@ class process_wordVector:
             @param: list of content.
 
         """    
-
+        
         self.__tokenize.fit_on_texts( text )
 
     def padding( self , encoded_data , max_length , padding='post' ):
@@ -107,7 +107,7 @@ class process_wordVector:
         
         #sample_table = make_sampling_table(vocab_size)
 
-        data , labels = skipgrams(data , vocab_size , window_size=window_siz  )#sampling_table=sample_table)
+        data , labels = skipgrams(data , vocab_size , window_size=window_siz )#, sampling_table=sample_table)
 
         # return the data after reformat by np and labels
 
