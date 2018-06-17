@@ -80,7 +80,6 @@ class prepare_json:
 
         self.__id_cv = self.__data_json['id']
 
-
     def get_id_cv( self ):
 
         """
@@ -114,7 +113,7 @@ class prepare_json:
 
         return self.__criteria_data
 
-    def get_data( self , sectionName  , sectionParent="cv" ):
+    def get_data( self , key , key_cri=None ,  parent="cv" ):
         
         """
             it's return the content of section name that given as a parameter
@@ -125,8 +124,14 @@ class prepare_json:
             @return: object json
 
         """
+        if parent =="cv":
+            
+            return self.__data_json[parent][key][0]["section"]
+        
+        elif parent== "criteria":
 
-        return self.__data_json[ sectionParent ][ sectionName ]
+            return self.__data_json[parent][key][key_cri]
+            
 
     def save_json( self , data , filename="cv_json.json" ):
         
@@ -162,7 +167,6 @@ class prepare_json:
 
             @param: string 
             
-
         """
 
         data = self.__read_data( filename ) # call function read to open file and read the data
@@ -175,11 +179,3 @@ class prepare_json:
         
         self.__set_cv_id()
 
-
-    
-
-if __name__ =="__main__":
-
-    exc = prepare_json()
-
-    exc.save_json({'d':1} , "test.json")
