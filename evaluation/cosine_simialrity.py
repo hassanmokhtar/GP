@@ -16,14 +16,15 @@ class cosineSimilarity:
         self.__v1 = self.__convert_word_vector( target ) 
         
         self.__v2 = self.__convert_word_vector( context )
-
-        # s1 , s2 , s3 , s4 = self.__v1.shape[0] , self.__v1.shape[1] , self.__v2.shape[0] , self.__v2.shape[1]
-
-        # m = min(s1 * s2 , s3 * s4)
         
-        # self.__v1 = self.__v1.reshape((m,m))
-        # self.__v2 = self.__v2.reshape((m,m))
+        if len( self.__v1 ) > len( self.__v2 ): 
+            
+            self.__v2 = self.__same_size( len( self.__v1 ) , self.__v2 )
         
+        elif len( self.__v1 ) < len( self.__v2 ): 
+            
+            self.__v1 = self.__same_size( len( self.__v2 ) , self.__v1 )
+    
         self._dot_product()
 
         self._abs_vectors()
@@ -44,6 +45,17 @@ class cosineSimilarity:
        return ( ( self._dot_pro / self._abs_vec ) * 100) 
 
     def __convert_word_vector( self , words , max_length=30):
+
+        """
+            this function only for get the words as a list and run the skipgrams and convert words
+            to vector with specifiy the length of the vector.
+
+            @param: list of words.
+            @param: integer for length.
+
+            @return: numpy of ndarray.
+            
+        """
         
         if len(words) > 1:
 
@@ -67,6 +79,30 @@ class cosineSimilarity:
             
             return encod_words
 
+    def __same_size( self , size , vector ):
+        
+        """
+            this function are used for add rows to get the same matrix to other matrix.
+            to continue the proccessing between two vectors.
+
+            @param: size of the larger size vector.
+            @param: numpy of ndarray of smaller vector
+
+            @return: numpy ndarray.
+
+        """
+
+        d = np.ndarray( (size - len( vector ) , 30) ,dtype=np.int16)
+
+        for i in range( size - len( vector ) ):
+
+            for k in range( 30 ):
+            
+                d[i] = 0
+        
+
+        return np.concatenate( (vector , d)  , axis=0) 
+
     def __get_words( self , text ):
 
         """
@@ -80,6 +116,3 @@ class cosineSimilarity:
 
         return word_tokenize( text )    
 
-if __name__ =="__main__":
-
-    print( cosineSimilarity(  "technologies i" , "work experience" ).get_result() )
